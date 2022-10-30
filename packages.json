@@ -4,6 +4,10 @@
     "url": "https://github.com/r-dbi/bigrquery"
   },
   {
+    "package": "dblog",
+    "url": "https://github.com/r-dbi/dblog"
+  },
+  {
     "package": "DBI",
     "url": "https://github.com/r-dbi/dbi"
   },
