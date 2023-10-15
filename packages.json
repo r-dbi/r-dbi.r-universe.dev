@@ -34,10 +34,5 @@
   {
     "package": "RSQLite",
     "url": "https://github.com/r-dbi/rsqlite"
-  },
-  {
-    "package": "duckadbc",
-    "url" : "https://github.com/r-dbi/duckadbc",
-    "subdir": "tools/rpkg"
   }
 ]
