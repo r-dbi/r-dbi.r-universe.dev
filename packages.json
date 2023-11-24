@@ -1,5 +1,9 @@
 [
   {
+    "package": "adbi",
+    "url": "https://github.com/r-dbi/adbi"
+  },
+  {
     "package": "bigrquery",
     "url": "https://github.com/r-dbi/bigrquery"
   },
